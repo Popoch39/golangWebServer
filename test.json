@@ -1,9 +1,1 @@
-[
-  {
-    "id": 0,
-    "name": "my first todo",
-    "content": "un contenu comme un autre",
-    "created_at": "2025-11-11T16:30:50.339735899+01:00",
-    "updated_at": "2025-11-11T16:30:50.339736009+01:00"
-  }
-]
+[{"id":1,"name":"my first todo","content":"un contenu comme un autre","created_at":"2025-11-11T20:58:26.808530095+01:00","updated_at":"2025-11-11T20:58:26.808530225+01:00"},{"id":2,"name":"my first todo","content":"un contenu comme un autre","created_at":"2025-11-11T20:58:31.035076122+01:00","updated_at":"2025-11-11T20:58:31.035076242+01:00"},{"id":3,"name":"my first todo","content":"un contenu comme un autre","created_at":"2025-11-11T20:59:06.26765996+01:00","updated_at":"2025-11-11T20:59:06.26766008+01:00"}]
