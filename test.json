@@ -1,0 +1,9 @@
+[
+  {
+    "id": 0,
+    "name": "my first todo",
+    "content": "un contenu comme un autre",
+    "created_at": "2025-11-11T16:30:50.339735899+01:00",
+    "updated_at": "2025-11-11T16:30:50.339736009+01:00"
+  }
+]
